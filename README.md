@@ -24,4 +24,5 @@
   npm run start
   npx playwright test
   ```
+- PlayWrightのデフォルトのGithubActionsはNextjsのbuild、startが含まれていないので修正が必要
 - 
