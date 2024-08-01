@@ -13,6 +13,8 @@
 - Playwright
   - 導入
     - https://nextjs.org/docs/app/building-your-application/testing/playwright
+  - CI
+    - https://playwright.dev/docs/ci#running-headed
 
 ## memo
 - Playwrightのデフォルトフォルダも対象になるので、明示的に指定する。
